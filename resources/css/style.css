@@ -2,7 +2,7 @@ body {
     background-color: black;
 }
 
-h1, h3 {
+.header-text {
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color:#e4b46c;
@@ -21,4 +21,15 @@ p {
     color:#e4b46c;
     font-size: 20px;
     text-align: left;
+}
+
+h1 {
+    font-weight: 900;
+}
+
+.brad {
+    margin-top: 50px;
+  margin-bottom: 75px;
+  margin-right: 150px;
+  margin-left: 50px;
 }
