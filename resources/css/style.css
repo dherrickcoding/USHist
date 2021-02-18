@@ -33,3 +33,30 @@ h1 {
   margin-right: 150px;
   margin-left: 50px;
 }
+
+.bizname {
+    color:#e4b46c;
+    font-family: "Arial Black";
+    font-size: 25px;
+    display: inline;
+    margin: 15px;
+}
+
+.inline-block {
+    vertical-align: middle;
+}
+
+a {
+ color: #e4b46c;
+ font-size: 15px;
+ text-align: center;
+}
+
+.textcenter {
+    text-align:center;
+}
+
+.float-right {
+    float: right;
+    margin-right: 40px;
+}
