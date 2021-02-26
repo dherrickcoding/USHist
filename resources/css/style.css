@@ -127,3 +127,11 @@ height: 300px;
     background-color: #cccccc;
     background-size: cover;
 }
+
+.sameline {
+    float: right;
+    margin-right: 150px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    margin-left: 40px;
+}
