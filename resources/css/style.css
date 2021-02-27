@@ -76,8 +76,8 @@ a {
 
 .article {
     text-align: left;
-    padding-right: 600px;
-    padding-left: 125px;
+    padding-right: 750px;
+    padding-left: 200px;
     margin-top: 0.2em;
     margin-bottom: 0.2em;
 }
@@ -130,7 +130,7 @@ height: 300px;
 
 .sameline {
     float: right;
-    margin-right: 150px;
+    margin-right: 225px;
     margin-top: 50px;
     margin-left: 40px;
 }
